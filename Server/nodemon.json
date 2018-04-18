@@ -1,0 +1,11 @@
+{
+    "verbose": false,
+    "ignore": ["node_modules"],
+    "env": {
+    },
+    "execMap": {
+        "js": "babel-node"
+    },
+    "ext": ".js,.json,.graphql",
+    "watch": "./"
+}

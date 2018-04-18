@@ -1,0 +1,9 @@
+type Query {
+    null: Boolean
+}
+
+type Mutation {
+    null: Boolean
+}
+
+scalar Date
